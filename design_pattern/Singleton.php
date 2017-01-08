@@ -1,4 +1,9 @@
 <?php
+
+/**
+ * Class Singleton
+ */
+
 class Singleton {
 	function __construct()
 	{
