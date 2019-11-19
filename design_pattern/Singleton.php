@@ -5,9 +5,8 @@
  */
 
 class Singleton {
-	function __construct()
+	private function __construct()
 	{
-		echo "test";
 	}
 
 	private static $_instance;
